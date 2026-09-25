@@ -11,6 +11,11 @@ class CurrencyConvertorPage extends StatefulWidget{
 class _CurrencyConvertorMaterialPageState extends State <CurrencyConvertorPage>{
   double result = 0;
   final TextEditingController textEditingController = TextEditingController();
+  @override
+  void dispose() {
+    textEditingController.dispose();
+    super.dispose();
+  }
   void getValueOfMoney(){
     double amount = double.parse(textEditingController.text);
     setState(() {
