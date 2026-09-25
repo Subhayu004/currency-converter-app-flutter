@@ -1,16 +1,18 @@
-# currency_converter
 
-A new Flutter project.
+# Currency Convertor App
 
-## Getting Started
+So this is my first project with the flutter. this is a Currency Convertor app that converts the INR to USD . Now in this project I didn't use any API , just hand coded the whole value.
 
-This project is a starting point for a Flutter application.
+## Lessions learned :
+**Through this project I learned about the followings**
 
-A few resources to get you started if this is your first Flutter project:
+- Widgets
+- Text box
+- buttons
+- Functions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![App Screenshot](https://github.com/Subhayu004/currency-converter-app-flutter/blob/main/screenshot/Screenshot%202026-09-25%20160959.png)
+
